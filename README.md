@@ -1,3 +1,3 @@
 # Calculator
-Made with HTML,CSS and JS . A GDSC TIU project
-Moye Moye 
+Made with HTML,CSS and JS
+//GDSC TIU WEB DASH 2023 :)//
